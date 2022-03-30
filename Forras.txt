@@ -1,0 +1,15 @@
+k_infoism_05okt
+II.
+
+2. feladat:
+
+Egy autďż˝ ďż˝zemanyag-fogyasztďż˝sďż˝t olyan mďż˝don adjuk meg, hogy 100 kilomďż˝ter tďż˝volsďż˝gďż˝ ďż˝t megtďż˝telďż˝hez hďż˝ny liter benzinre van szďż˝ksďż˝ge. 
+
+Kďż˝szďż˝tsen programot, amely billentyďż˝zetrďż˝l beolvassa egy autďż˝ fogyasztďż˝sďż˝t, ďż˝zemanyagtartďż˝lyďż˝nak ďż˝rtartalmďż˝t, valamint a jďż˝rmďż˝ ďż˝ltal megteendďż˝ ďż˝t hosszďż˝t, ďż˝s a fenti adatok alapjďż˝n megďż˝llapďż˝tja, hogy kell-e tankolnia az autďż˝nak az adott hosszďż˝sďż˝gďż˝ ďż˝t sorďż˝n amennyiben tele tankkal indult ďż˝tnak!
+
+A program megďż˝llapďż˝tďż˝sďż˝nak megfelelďż˝en ďż˝rja kďż˝pernyďż˝re az alďż˝bbi mondatok kďż˝zďż˝l a megfelelďż˝t!
+"Az ďż˝t megtehetďż˝ tankolďż˝s nďż˝lkďż˝l."
+"Az ďż˝t sorďż˝n tankolni kell!"
+
+Megjegyzďż˝s: Ha a fogyasztďż˝s F ďż˝s az ďż˝zemanyagtartďż˝ly tďż˝rfogata V, akkor az autďż˝ egy tank benzinnel V*100/F kilomďż˝tert tesz meg.
+
