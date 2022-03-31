@@ -12,9 +12,21 @@
     border-radius: 10px;
     padding: 20px;
     background-color: #ddd;
-    line-height: 2em;
 }
 
 .jel {
     color: green;
+}
+
+#fogyasztás{
+    margin-left: 46px;
+    margin-bottom: 5px;
+}
+
+#ut{
+    margin-left: 102px;
+   margin-top: 5px;
+}
+button{
+    margin-top: 5px;
 }
